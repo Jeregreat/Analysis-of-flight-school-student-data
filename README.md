@@ -1,5 +1,6 @@
+The codes i write are in the auditor folder: Utils.py, pilot.py, app.py, and violations.py. KITH 2017-2019 are Datasets
 This project is made to determine if each line in lessons has violations based on docs daycycle, weather, minimums, and students.
-The codes i write are in the auditor folder.
+
 
 This project writes and reads JSON and CSV docs about students' flights information. 
 
